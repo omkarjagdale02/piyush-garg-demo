@@ -5,3 +5,7 @@ function sayName()
 {
     console.log('my name is rahul')
 }
+function newfun()
+{
+
+}
