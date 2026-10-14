@@ -19,3 +19,7 @@ function updatefeature()
 {
     console.log('updated the new feature')
 }
+function deletefeature()
+{
+    console.log('delete 1 feature')
+}
