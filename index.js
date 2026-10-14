@@ -22,4 +22,5 @@ function updatefeature()
 function deletefeature()
 {
     console.log('delete 1 feature')
+    console.log('delete2 feature')
 }
