@@ -9,3 +9,7 @@ function newfun()
 {
 
 }
+function newfeature()
+{
+    console.log('1st feature added')
+}
