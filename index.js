@@ -12,4 +12,6 @@ function newfun()
 function newfeature()
 {
     console.log('1st feature added')
+    console.log('2nd feature added')
+
 }
